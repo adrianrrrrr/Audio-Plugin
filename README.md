@@ -6,6 +6,7 @@ Courses:
 Kadenze academy (Output Course)
 https://www.kadenze.com/courses/intro-to-audio-plugin-development/info
 https://www.kadenze.com/programs/creating-audio-plugins-with-c
+
 Making Audio Plugins (Martin-Finke Course)
 http://www.martin-finke.de/blog/articles/audio-plugins-001-introduction/
 VST Course using JUCE:
