@@ -27,7 +27,7 @@ https://github.com/iPlug2/iPlug2
 https://www.cockos.com/wdl/
 
 ## GUI creation IDE
-### WXWODGETS
+### WXWIDGETS
 https://www.wxwidgets.org/ (Audacity)
 ### QT
 https://www.qt.io/ (There's free opensource version)
